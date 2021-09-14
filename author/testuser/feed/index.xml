@@ -10,7 +10,7 @@
 <channel>
 	<title>testUser &#8211; Những quyển sách bí ẩn nhất thế giới  </title>
 	<atom:link href="http://localhost/myproject/wordpress/author/testuser/feed/" rel="self" type="application/rss+xml" />
-	<link>http://atlasnulranir.github.io/mywordpress</link>
+	<link>https://atlasnulranir.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Tue, 14 Sep 2021 07:35:42 +0000</lastBuildDate>
 	<language>vi</language>
