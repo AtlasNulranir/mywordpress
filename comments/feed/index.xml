@@ -11,44 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://atlasnulranir.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 08 Sep 2021 04:19:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Sep 2021 07:35:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-	<item>
-		<title>
-		Phản hồi cho Vua Solomon là ai? (974 – 931 TCN) bởi MaiTranDuyKhang		</title>
-		<link>https://atlasnulranir.github.io/mywordpress/vua-solomon-la-ai-974-931-tcn/solomon/#comment-14</link>
-
-		<dc:creator><![CDATA[MaiTranDuyKhang]]></dc:creator>
-		<pubDate>Wed, 08 Sep 2021 04:19:31 +0000</pubDate>
-		<guid isPermaLink="false">https://atlasnulranir.github.io/mywordpress/?p=105#comment-14</guid>
-
-					<description><![CDATA[Trả lời tới &lt;a href=&quot;https://atlasnulranir.github.io/mywordpress/vua-solomon-la-ai-974-931-tcn/solomon/#comment-13&quot;&gt;testUser&lt;/a&gt;.
-
-Đã trả lời&lt;strong&gt;&lt;em&gt;&lt;/em&gt;]]></description>
-			<content:encoded><![CDATA[<p>Trả lời tới <a href="https://atlasnulranir.github.io/mywordpress/vua-solomon-la-ai-974-931-tcn/solomon/#comment-13">testUser</a>.</p>
-<p>Đã trả lời<strong><em></em></strong></p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho Vua Solomon là ai? (974 – 931 TCN) bởi testUser		</title>
-		<link>https://atlasnulranir.github.io/mywordpress/vua-solomon-la-ai-974-931-tcn/solomon/#comment-13</link>
-
-		<dc:creator><![CDATA[testUser]]></dc:creator>
-		<pubDate>Wed, 08 Sep 2021 04:17:43 +0000</pubDate>
-		<guid isPermaLink="false">https://atlasnulranir.github.io/mywordpress/?p=105#comment-13</guid>
-
-					<description><![CDATA[&lt;strong&gt;Tạo cmt trên bài post meowmeow&lt;/strong&gt;&lt;strong&gt;	&lt;li&gt;]]></description>
-			<content:encoded><![CDATA[<p><strong>Tạo cmt trên bài post meowmeow</strong><strong>	</p>
-<li></li>
-<p></strong></p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
